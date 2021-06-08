@@ -1,2 +1,3 @@
-# siziswaf
-Sistem Informasi Zakat Infaq Sedekah dan Wakaf
+# SiZISWAF
+
+Sistem Informasi Zakat Infaq Sedekah dan Wakaf.
